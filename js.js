@@ -1,3 +1,5 @@
+alert("Hello, Alice! Do you ready to start your adventure, where you must to  defeat the Red Queen?")
+
 let Alice = {
 health : 75,
 balance : 23,
